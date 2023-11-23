@@ -1,5 +1,7 @@
 # DegenToken Smart Contract
 
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 This Solidity smart contract, named DegenToken, implements an ERC-20 token with additional functionalities for an in-game store. It includes features such as token minting, transferring, redeeming for in-game items, checking token balances, and burning tokens.
@@ -39,8 +41,12 @@ This Solidity smart contract, named DegenToken, implements an ERC-20 token with 
 Deploy it using [Remix](https://remix.ethereum.org/) to a given inejected provider specifically [Metamask](https://metamask.io/), also in any EVM networks (in this case, fuji avalanche test net).
 you can also use hardhat or any other method as per your desire.
 
+## Author
+
+- [@raiyan-fr](https://www.github.com/raiyan-fr)
+  
 ## License
 
-This smart contract is licensed under the MIT License.
+This code is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
 
